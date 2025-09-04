@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem-vindo ao repositório do Grupo de Pesquisa em Tecnologias Computacionais (GPTCode) do Instituto Federal de Brasília (IFB). Neste espaço você encontrará informações sobre os projetos nos quais os membros do GPTCode estão envolvidos 👋
 
 <!--
 **GPTCodeIFB/GPTCodeIFB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
