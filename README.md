@@ -87,15 +87,15 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 
 <br/>
 
-### Professores.
+### Professores:
 
 | ![Dauster Souza](https://avatars.githubusercontent.com/u/148724441?v=4) | ![Claudio Ulisse](https://avatars.githubusercontent.com/u/5414440?v=4) | ![Fernando Wagner](xx) | ![Sylvana Karla da Silva de Lemos Santos](xx) | ![Fulano de Tal](xxxx) |
 |:---:|:---:|:---:|:---:|:---:|
 | [Prof. Dr. Dauster Souza Pereira](https://github.com/daustersp) | [Prof. Me. Claudio Ulisse](https://github.com/claulis/) | [Prof. Me. Fernando Wagner Brito Hortêncio Filho](https://github.com/daustersp) | [Profª Drª Sylvana Karla da Silva de Lemos Santos](https://github.com/daustersp) | [Fulano de Tal](https://github.com/daustersp) |
      
 
-### Estudantes de Cursos de Graduação.
-| ![Alice Alves](https://avatars.githubusercontent.com/u/145937615?v=4) | ![Luidy Baldez](https://avatars.githubusercontent.com/u/144949301?v=4) | ![Davi Campos Parente](https://avatars.githubusercontent.com/u/148724441?v=4) | ![Davi Rocha Fortes Bezerra](https://avatars.githubusercontent.com/u/148724441?v=4) | ![Eduardo Rodrigues Estrela](https://avatars.githubusercontent.com/u/148724441?v=4) |
+### Estudantes de Cursos de Graduação:
+| ![Alice Alves](https://avatars.githubusercontent.com/u/145937615?v=4) | ![Luidy Baldez](https://avatars.githubusercontent.com/u/144949301?v=4) | ![Davi Campos Parente](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Davi Rocha Fortes Bezerra](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Eduardo Rodrigues Estrela](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
 | [Alice Alves da Gama](https://github.com/AliceAlvesG) | [Luidy Baldez de Melo](https://github.com/lBALDEZl) | [Davi Campos Parente](https://github.com/daustersp) | [Davi Rocha Fortes Bezerra](https://github.com/daustersp) | [Eduardo Rodrigues Estrela](https://github.com/daustersp) |
 
@@ -108,13 +108,13 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 | [Mayara Vieira Martins Santos](https://github.com/daustersp) | [Sávio Vinícius de Sousa](https://github.com/daustersp) | [Vitória Santana Silva](https://github.com/daustersp) | [Fulano 4](https://github.com/daustersp) | [Fulano 5](https://github.com/daustersp) |
 
 
-### Estudantes de Cursos Técnicos Subsequentes.
+### Estudantes de Cursos Técnicos Subsequentes:
 | ![Déborah](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Isabela](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Letícia](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 4](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
 | [Fulano 1](https://github.com/daustersp) | [Fulano 2](https://github.com/daustersp) | [Fulano 3](https://github.com/daustersp) | [Fulano 4](https://github.com/daustersp) | [Fulano 5](https://github.com/daustersp) |
 
 
-### Ex-Alunos do IFB e/ou Colaboradores Externos.
+### Ex-Alunos do IFB e/ou Colaboradores Externos:
 | ![Andersen Gonzaga Facundo](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Anderson de Castro Gomes](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Edilson Nery Barbosa](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fernando Fábio Inocêncio Cavalcante](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Ciclano C](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
 | [Andersen Gonzaga Facundo](https://github.com/daustersp) | [Anderson de Castro Gomes](https://github.com/daustersp) | [Edilson Nery Barbosa](https://github.com/daustersp) | [Fernando Fábio Inocêncio Cavalcante](https://github.com/daustersp) | [Ciclano C](https://github.com/daustersp) |
