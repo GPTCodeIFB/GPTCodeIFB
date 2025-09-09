@@ -77,3 +77,19 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 
 
 </p>
+
+<br/>
+<br/>
+
+## Membros do GPTCode
+
+### Este Grupo de Pesquisa existe graças a dedicação e apoio de seus membros.
+
+| ![Dauster Souza](https://avatars.githubusercontent.com/u/148724441?v=4) | ![Claudio Ulisse](https://avatars.githubusercontent.com/u/5414440?v=4) | ![Fernando Wagner](xx) | ![Sylvana Karla da Silva de Lemos Santos](xx) | ![Fulano de Tal](xxxx) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Prof. Dr. Dauster Souza Pereira](https://github.com/daustersp) | [Prof. Me. Claudio Ulisse](https://github.com/claulis/) | [Prof. Me. Fernando Wagner Brito Hortêncio Filho](https://github.com/daustersp) | [Profª Drª Sylvana Karla da Silva de Lemos Santos](https://github.com/daustersp) | [Fulano de Tal](https://github.com/daustersp) |
+     
+
+| ![Alice Alves](https://avatars.githubusercontent.com/u/145937615?v=4) | ![Luidy Baldez](https://avatars.githubusercontent.com/u/144949301?v=4) | ![Ciclano A](https://avatars.githubusercontent.com/u/148724441?v=4) | ![Ciclano B](https://avatars.githubusercontent.com/u/148724441?v=4) | ![Ciclano C](https://avatars.githubusercontent.com/u/148724441?v=4) |
+|:---:|:---:|:---:|:---:|:---:|
+| [Alice Alves da Gama](https://github.com/AliceAlvesG) | [Luidy Baldez de Melo](https://github.com/lBALDEZl) | [Ciclano A](https://github.com/daustersp) | [Ciclano B](https://github.com/daustersp) | [Ciclano C](https://github.com/daustersp) |
