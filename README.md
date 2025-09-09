@@ -2,9 +2,9 @@
 
 **`Grupo de Pesquisa`**
 
-O GPTCode é um grupo de pesquisa brasileiro "[certificado](http://dgp.cnpq.br/dgp/espelhogrupo/6357808047600163)" e vinculado ao Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB) - Campus Brasília. 
+O GPTCode é um grupo de pesquisa brasileiro [certificado](http://dgp.cnpq.br/dgp/espelhogrupo/6357808047600163) e vinculado ao Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB) - Campus Brasília. 
 
-Estamos em fase de construção de nosso Site, mas por enquanto você também pode obter informações e acompanhar algumas ações do GPTCode por meio de nosso perfil no Instagram "[GPTCodeIFB](https://www.instagram.com/gptcodeifb/)"
+Estamos em fase de construção de nosso Site, mas por enquanto você também pode obter informações e acompanhar algumas ações do GPTCode por meio de nosso perfil no Instagram [GPTCodeIFB](https://www.instagram.com/gptcodeifb/).
 
 <p align="left">
     <a href="https://github.com/gptcodeifb?tab=repositories&sort=stargazers">
