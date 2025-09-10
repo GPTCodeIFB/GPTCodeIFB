@@ -43,13 +43,13 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 |:---:|:---:|:---:|:---:|:---:|
 | [Alice Alves da Gama](https://github.com/AliceAlvesG) | [Luidy Baldez de Melo](https://github.com/lBALDEZl) | [Davi Campos Parente](https://github.com/DaviParente10) | [Davi Rocha Fortes Bezerra](https://github.com/davirfb) | [Eduardo Rodrigues Estrela](https://github.com/EduardoStarZ) |
 
-| ![Gabriel Azevedo Marques](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Gabriel Gonçalves dos Santos Silva](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Ivanilson Paixão Cirqueira](https://avatars.githubusercontent.com/u/143647580?v=4) | ![Leandro Souza Rocha](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Mateus Nascimento Aires](https://avatars.githubusercontent.com/u/230431728?v=4) |
+| ![Gabriel Azevedo Marques](https://avatars.githubusercontent.com/u/100439515?v=4) | ![Gabriel Gonçalves dos Santos Silva](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Ivanilson Paixão Cirqueira](https://avatars.githubusercontent.com/u/143647580?v=4) | ![Leandro Souza Rocha](https://avatars.githubusercontent.com/u/114433850?v=4) | ![Mateus Nascimento Aires](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
-| [Gabriel Azevedo Marques](https://github.com/daustersp) | [Gabriel Gonçalves dos Santos Silva](https://github.com/daustersp) | [Ivanilson Paixão Cirqueira](https://github.com/ivanilsonstfler) | [Leandro Souza Rocha](https://github.com/daustersp) | [Mateus Nascimento Aires](https://github.com/daustersp) |
+| [Gabriel Azevedo Marques](https://github.com/SkyWallker616) | [Gabriel Gonçalves dos Santos Silva](https://github.com/daustersp) | [Ivanilson Paixão Cirqueira](https://github.com/ivanilsonstfler) | [Leandro Souza Rocha](https://github.com/Leandrorocha17) | [Mateus Nascimento Aires](https://github.com/daustersp) |
 
-| ![Mayara Vieira Martins Santos](https://avatars.githubusercontent.com/u/153861782?v=4) | ![Sávio Vinícius de Sousa](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Vitória Santana Silva](https://avatars.githubusercontent.com/u/143649633?v=4) | ![Fulano 4](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
+| ![Mayara Vieira Martins Santos](https://avatars.githubusercontent.com/u/153861782?v=4) | ![Sávio Vinícius de Sousa](https://avatars.githubusercontent.com/u/129786165?v=4) | ![Vitória Santana Silva](https://avatars.githubusercontent.com/u/143649633?v=4) | ![Fulano 4](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fulano 5](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
-| [Mayara Vieira Martins Santos](https://github.com/MayaraVieiraa) | [Sávio Vinícius de Sousa](https://github.com/daustersp) | [Vitória Santana Silva](https://github.com/VII-Z) | [Fulano 4](https://github.com/daustersp) | [Fulano 5](https://github.com/daustersp) |
+| [Mayara Vieira Martins Santos](https://github.com/MayaraVieiraa) | [Sávio Vinícius de Sousa](https://github.com/savifb) | [Vitória Santana Silva](https://github.com/VII-Z) | [Fulano 4](https://github.com/daustersp) | [Fulano 5](https://github.com/daustersp) |
 
 
 ### Estudantes de Cursos Técnicos Subsequentes:
@@ -59,6 +59,6 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 
 
 ### Ex-Alunos do IFB e/ou Colaboradores Externos:
-| ![Andersen Gonzaga Facundo](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Anderson de Castro Gomes](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Edilson Nery Barbosa](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fernando Fábio Inocêncio Cavalcante](https://avatars.githubusercontent.com/u/161374485?v=4) | ![Ciclano C](https://avatars.githubusercontent.com/u/230431728?v=4) |
+| ![Andersen Gonzaga Facundo](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Anderson de Castro Gomes](https://avatars.githubusercontent.com/u/139027256?v=4) | ![Edilson Nery Barbosa](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fernando Fábio Inocêncio Cavalcante](https://avatars.githubusercontent.com/u/161374485?v=4) | ![Ciclano C](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
-| [Andersen Gonzaga Facundo](https://github.com/daustersp) | [Anderson de Castro Gomes](https://github.com/daustersp) | [Edilson Nery Barbosa](https://github.com/daustersp) | [Fernando Fábio Inocêncio Cavalcante](https://github.com/FernandoFIC) | [Ciclano C](https://github.com/daustersp) |
+| [Andersen Gonzaga Facundo](https://github.com/daustersp) | [Anderson de Castro Gomes](https://github.com/AndersonCastroGomes) | [Edilson Nery Barbosa](https://github.com/daustersp) | [Fernando Fábio Inocêncio Cavalcante](https://github.com/FernandoFIC) | [Ciclano C](https://github.com/daustersp) |
