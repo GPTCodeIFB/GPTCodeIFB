@@ -59,6 +59,6 @@ Estamos em fase de construção de nosso Site, mas por enquanto você também po
 
 
 ### Ex-Alunos do IFB e/ou Colaboradores Externos:
-| ![Andersen Gonzaga Facundo](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Anderson de Castro Gomes](https://avatars.githubusercontent.com/u/139027256?v=4) | ![Edilson Nery Barbosa](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fernando Fábio Inocêncio Cavalcante](https://avatars.githubusercontent.com/u/161374485?v=4) | ![Ciclano C](https://avatars.githubusercontent.com/u/230431728?v=4) |
+| ![Andersen Gonzaga Facundo](https://avatars.githubusercontent.com/u/138904363?v=4) | ![Anderson de Castro Gomes](https://avatars.githubusercontent.com/u/139027256?v=4) | ![Edilson Nery Barbosa](https://avatars.githubusercontent.com/u/230431728?v=4) | ![Fernando Fábio Inocêncio Cavalcante](https://avatars.githubusercontent.com/u/161374485?v=4) | ![Ciclano C](https://avatars.githubusercontent.com/u/230431728?v=4) |
 |:---:|:---:|:---:|:---:|:---:|
-| [Andersen Gonzaga Facundo](https://github.com/daustersp) | [Anderson de Castro Gomes](https://github.com/AndersonCastroGomes) | [Edilson Nery Barbosa](https://github.com/daustersp) | [Fernando Fábio Inocêncio Cavalcante](https://github.com/FernandoFIC) | [Ciclano C](https://github.com/daustersp) |
+| [Andersen Gonzaga Facundo](https://github.com/andersengf) | [Anderson de Castro Gomes](https://github.com/AndersonCastroGomes) | [Edilson Nery Barbosa](https://github.com/daustersp) | [Fernando Fábio Inocêncio Cavalcante](https://github.com/FernandoFIC) | [Ciclano C](https://github.com/daustersp) |
